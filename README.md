@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Fullstack Developer with strong focus on Javascript</h1>
-<p>NextJs, NestJs, Typescript</p>
+<h1>Hi 👋, I'm Fullstack Developer with strong focus on Javascript and AI Automation/Integration</h1>
+<p>NextJs, NestJs, Typescript, Langchain, Shopify, Wordpress</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -33,7 +33,9 @@
 </a>
 </p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/usamah-hafidz-91a6ab225" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-byte&show_icons=true&locale=en" alt="abrar-byte" /></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/usamah-hafidz-91a6ab225" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.upwork.com/freelancers/~01bb4591bfc627d0e3" style="display: inline-block;"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="upwork" /></a>
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-byte&" alt="abrar-byte" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrar-byte" alt="abrar-byte" /></a></p>
